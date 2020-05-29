@@ -21,17 +21,17 @@ public class Datosdelestudiante1 {
         Scanner objetivo=new Scanner(System.in);
         System.out.println("Ingrese nombre de la Universidad:");
         String nombreUniversidad = objetivo.nextLine();
-        
+        // Universidad de las Fuerzas Armadasa ESPE
         System.out.println("Ingrese departamento:");
         String departamento=objetivo.nextLine();
-        
+        // Mini departamenteo
         System.out.println("Ingrese la carrera:");
         String carrera=objetivo.nextLine();
-        
-        
+        // ing. Automotriz
+   
         System.out.println("Ingrese la materia:");
         String materia=objetivo.nextLine();
-        
+        // Programacion 
      
         System.out.println("Ingrese nombres del estudiante:");
         String nombreestudiante=objetivo.nextLine();
